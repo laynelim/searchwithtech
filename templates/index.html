@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta charset="UTF-8">
+    <link href="static/main.css" rel="stylesheet">
+    <title>Search With Tech</title>
+</head>
+<body>
+    <div class="s01">
+      <form action="/results" method="post">
+        <h1 style="text-align: center; font-size:100px; color:white;">Search With Tech</h1>
+        <!--<img src="images/swt.png" class="logo"/>-->
+        <div class="inner-form">
+
+          <div class="input-field first-wrap">
+            <input id="search" name="position" type="text" placeholder="Job position (e.g. Software developer intern)" required minlength="2">
+          </div>
+
+          <div class="input-field second-wrap">
+            <input id="location" name="location" type="text" placeholder="Job location (e.g. Toronto ON)" required minlength="2">
+          </div>
+
+          <div class="input-field third-wrap">
+            <a href=results>
+              <button class="btn-search" type="submit">Search</button>
+            </a>
+          </div>
+          
+        </div>
+      </form>
+    </div>
+</body>
+</html>

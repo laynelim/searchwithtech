@@ -1,0 +1,44 @@
+html, body {
+  font-family: arial;
+  font-size: 14px;
+  width: 100%;
+}
+table {
+  margin: 0 auto;
+  border: 1px solid #C8C8C8;
+  border-collapse: collapse;
+  table-layout: fixed;
+  width: 95%;
+}
+th {
+  border-collapse: collapse;
+  height: 35px;
+}
+td {
+  border-collapse: collapse;
+  overflow: hidden;
+  padding: 10px;
+}
+
+tr:nth-child(odd) {
+  background-color: #ccd9ff;
+}
+
+.btn-search {
+  height: 35px;
+  width: 75px;
+  background: #668cff;
+  white-space: nowrap;
+  border-radius: 1px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #fff;
+  transition: all .2s ease-out, color .2s ease-out;
+  border: 0;
+  cursor: pointer;
+ margin-left:20px;
+}
+
+.btn-search:hover {
+  background: #294392;
+}
