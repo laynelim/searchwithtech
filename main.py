@@ -133,6 +133,3 @@ def get_results(): # Run the function
 
     # Render the template
     return render_template('results.html', records=records) 
-
-# Run the Application (in debug mode)
-app.run(host='0.0.0.0', port=5000, debug=True)
