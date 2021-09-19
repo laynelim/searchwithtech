@@ -26,8 +26,7 @@ tr:nth-child(odd) {
 
 .btn-search {
   height: 35px;
-  width: 75px;
-  background: #668cff;
+  background-color: #668cff;
   white-space: nowrap;
   border-radius: 1px;
   font-size: 14px;
@@ -36,7 +35,8 @@ tr:nth-child(odd) {
   transition: all .2s ease-out, color .2s ease-out;
   border: 0;
   cursor: pointer;
- margin-left:20px;
+  width:155px; 
+  margin-left:36px;"
 }
 
 .btn-search:hover {

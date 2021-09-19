@@ -37,6 +37,17 @@ section {
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
+  text-align: center; 
+  margin-bottom: 0px;
+  font-size:100px; 
+  color:white;
+}
+
+h2 {
+  font-size: 50px;
+  text-align: center;
+  margin-top: 0px;
+  color:#668cff;
 }
 
 .logo {
