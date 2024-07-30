@@ -17,6 +17,13 @@ We are proud that the project was completed on time, and that Search With Tech i
 ## What we learned
 Throughout this build, we learned how to effectively collaborate in front-end/back-end integration, and also communicate about expectations about the final result. We had to learn to use Flask, and also deployed our first web application. Since we did not dedicate time to creating a very detailed and visually-appealing final result model, a lot of communication was required to effectively put all of the pieces of the project together. In the end, we were able to submit a final result that met all team members’ expectations.
 
+## Contributors
+- Jasmine Xiong
+- Catherine Xie
+- Layne Lim Ah Tock
+- Albina Babuk
+
+
 ## What's next for Search With Tech
 In the near future, we plan to extend Search With Tech to all major job board sites, in order to encompass all job opportunities online into a single job search engine. As well, we are eager to also extend the functionality to university-specific job boards, such as WaterlooWorks (at the University of Waterloo) and CLNX (at the University of Toronto).
 
